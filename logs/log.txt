@@ -1,0 +1,31 @@
+[08/15/2021 8:10 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 8:10 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 8:10 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/15/2021 8:10 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 8:10 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 8:10 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/15/2021 8:13 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 8:13 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 8:13 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/15/2021 8:13 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 8:13 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 8:13 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/15/2021 8:32 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_check
+[08/15/2021 8:32 AM] - SUCCESS : API - license check (slm_check) request received.
+[08/15/2021 8:32 AM] - SUCCESS : License key: wpsp-6118cc8c9ccce
+[08/15/2021 8:32 AM] - SUCCESS : API Response - Result: success Message: License key details retrieved.
+[08/15/2021 8:32 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_check
+[08/15/2021 8:32 AM] - SUCCESS : API - license check (slm_check) request received.
+[08/15/2021 8:32 AM] - SUCCESS : License key: wpsp-6118cc8ce1790
+[08/15/2021 8:32 AM] - SUCCESS : API Response - Result: success Message: License key details retrieved.
+[08/15/2021 8:39 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 8:39 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 8:39 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/15/2021 9:19 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 9:19 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 9:19 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/15/2021 9:19 AM] - SUCCESS : API - Request received from IP: 127.0.0.1, Action type: slm_create_new
+[08/15/2021 9:19 AM] - SUCCESS : API - license creation (slm_create_new) request received.
+[08/15/2021 9:19 AM] - SUCCESS : API Response - Result: success Message: License successfully created
+[08/16/2021 6:42 AM] - STATUS : SLM daily cronjob - auto expiry of license key is enabled.
+[08/17/2021 6:42 AM] - STATUS : SLM daily cronjob - auto expiry of license key is enabled.
